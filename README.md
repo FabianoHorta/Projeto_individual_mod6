@@ -4,13 +4,13 @@ A idéia desse projeto é apresentar um CRUD totalmete funcional, utilizando com
 
 Para executar basta inserir esses comandos no terminal.
 
-#Parte front-end
+Parte front-end
 
 npm install
 
 npm run dev
 
-#Parte back-end
+Parte back-end
 
 npm init -y
 
